@@ -14,3 +14,5 @@ public class Solution {
         return (int) (Math.random() * 99)  ;
     }
 }
+
+//sadsa
