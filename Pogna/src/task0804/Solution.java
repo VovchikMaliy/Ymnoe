@@ -11,7 +11,7 @@ public class Solution {
     }
 
     public static int generateNumber() {
-        return 0;
+        return (int) (Math.random() * 99);
     }
 }
 
