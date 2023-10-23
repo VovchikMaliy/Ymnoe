@@ -1,6 +1,6 @@
 package task0804;
 
-/* 
+/*
 Randomizer
 */
 
@@ -11,7 +11,6 @@ public class Solution {
     }
 
     public static int generateNumber() {
-        //напишите тут ваш код
-        return  -1;
+        return (int) (Math.random() * 99)  ;
     }
 }
